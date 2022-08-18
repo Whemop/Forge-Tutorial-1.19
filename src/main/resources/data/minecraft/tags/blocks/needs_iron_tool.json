@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "tutmod:zircon_ore",
+    "tutmod:zircon_block",
+    "tutmod:deepslate_zircon_ore",
+    "tutmod:endstone_zircon_ore",
+    "tutmod:netherrack_zircon_ore"
+  ]
+}

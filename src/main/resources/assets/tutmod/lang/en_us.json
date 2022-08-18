@@ -1,0 +1,14 @@
+{
+  "item.tutmod.zircon": "Zircon",
+  "item.tutmod.raw_zircon": "Raw Zircon",
+  "item.tutmod.eight_ball": "Eight Ball",
+
+  "itemGroup.tutorialtab": "Zircon Tab",
+
+  "block.tutmod.zircon_block": "Block of Zircon",
+  "block.tutmod.zircon_ore": "Zircon Ore",
+  "block.tutmod.endstone_zircon_ore": "Endstone Zircon Ore",
+  "block.tutmod.netherrack_zircon_ore": "Netherrack Zircon Ore",
+  "block.tutmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.tutmod.jumpy_block": "Jumpy Block"
+}
